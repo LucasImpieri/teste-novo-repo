@@ -5,8 +5,7 @@ public class Program {
 	public static void main(String[] args) {
 		
 		System.out.println("Ola mundo!");
-		System.out.println("Msn teste 1");
-		
+		System.out.println("Msg teste 1");
+		System.out.println("Msg teste 2");
 	}
-
 }
